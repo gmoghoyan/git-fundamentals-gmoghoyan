@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub proposed change
 
 **adding bold text here**
 ~~adding anotther kind of markdown 
